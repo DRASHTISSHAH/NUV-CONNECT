@@ -1,0 +1,18 @@
+body {
+    background-color: #F9F9FB;
+    /* background-size: cover; */
+}
+
+.login {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.navbar.bg-custom {
+    background-color: rgb(181, 159, 132);
+}
